@@ -1,0 +1,6 @@
+Top 5 recommendations for user 22:
+1. The Prestige | Predicted Rating: 4.72774
+2. The Dark Knight | Predicted Rating: 4.5
+3. Wall-E | Predicted Rating: 4.4
+4. Avengers: Endgame | Predicted Rating: 4.16844
+5. Finding Nemo | Predicted Rating: 3.7
